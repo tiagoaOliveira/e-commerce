@@ -1,0 +1,34 @@
+.top-header {
+    display: flex;
+    align-items: center;
+    width: 100vw;
+    height: 48px;
+    background-color: #000000;
+}
+
+.top-text {
+    display: flex;
+    align-items: center;
+    margin: auto;
+    width: 859px;
+    height: 24px;
+}
+
+.top-text > h2 {
+    color: #FAFAFA;
+    padding-right: 8px;
+    font-size: 14px;
+    line-height: 21px;
+}
+
+.top-text > h3 {
+    height: 24px;
+    color: #FAFAFA;
+    text-decoration: underline;
+}
+
+.top-language {
+    width: 78px;
+    color: #FAFAFA;
+    margin-left: auto;
+}
